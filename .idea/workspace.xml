@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb539da9-98a1-4391-b0f5-3f2c2880b5ad" name="Default Changelist" comment="" />
+    <list default="true" id="fb539da9-98a1-4391-b0f5-3f2c2880b5ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utilities/customLogger.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -96,6 +99,15 @@
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testCases/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="19" lean-forward="true" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -132,6 +144,7 @@
         <option value="$PROJECT_DIR$/testCases/test_SearchCustomerByName.py" />
         <option value="$PROJECT_DIR$/Logs/automation.log" />
         <option value="$PROJECT_DIR$/utilities/customLogger.py" />
+        <option value="$PROJECT_DIR$/testCases/test.py" />
       </list>
     </option>
   </component>
@@ -147,10 +160,26 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nopcommersApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommersApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommersApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommersApp" type="462c0819:PsiDirectoryNode" />
+              <item name="testCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -214,6 +243,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -412,6 +442,13 @@
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCases/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" lean-forward="true" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
