@@ -13,7 +13,7 @@ def setup(browser):
     else:
         driver = webdriver.Chrome(executable_path="C:\\Users\\chand\\Downloads\\chromedriver_version_83_win32\\chromedriver.exe")
         print("launching IE browser..............")
-    driver.maximize_window()
+        driver.maximize_window()
     return driver
 
 def pytest_addoption(parser): #This will get the value from CLI /hooks

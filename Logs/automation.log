@@ -1,0 +1,115 @@
+2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
+2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
+2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
+2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
+2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
+2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
+2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
+2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
+2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
+2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
+2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
+2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
+2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
+2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
+2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
+2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
+2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
+2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
+2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
+2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
+2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
+2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
+2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
+2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
+2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
+2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
+2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
+2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
+2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
+2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
+2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
+2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
+2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
+2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
+2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
+2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
+2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
+2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
+2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
+2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
+2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
+2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
+2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
+2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
+2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
+2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
+2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
+2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
+2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
+2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
+2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
+2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
+2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
+2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
+2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
+2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
+2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
+2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
+2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
+2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
+2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
+2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
+2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
+2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
+2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
+2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
+2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
+2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
+2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
+2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
+2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
+2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
+2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
+2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
+2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
+2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
+2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
+2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
+2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
+2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
+2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
+2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
+2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
+2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
+2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
+2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
+2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
+2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
+2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
+2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
+2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
+2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
+2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
+2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
+2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
+2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
+2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
+2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
+2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
+2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
+2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
+2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
+2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
+2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
+2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
+2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
+2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
+2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
+2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
+2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
+2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
+2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
+2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
+2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
+2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
