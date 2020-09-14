@@ -1,3 +1,4 @@
+
 from selenium import webdriver
 import pytest
 
@@ -10,9 +11,12 @@ def setup(browser):
     elif browser=="firefox":
         driver = webdriver.Firefox(executable_path="C:\\Users\\chand\\Downloads\\geckodriver_letest-v0.26.0-win64\\geckodriver.exe")
         print("launching firefox browser..............")
-    else:
+    elif browser=="ie":
         driver = webdriver.Chrome(executable_path="C:\\Users\\chand\\Downloads\\chromedriver_version_83_win32\\chromedriver.exe")
         print("launching IE browser..............")
+    else:
+        driver = webdriver.Chrome(executable_path="C:\\Users\\chand\\Downloads\\chromedriver_version_83_win32\\chromedriver.exe")
+        print("launching chrome browser bydefault..............")
         driver.maximize_window()
     return driver
 
