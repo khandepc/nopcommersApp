@@ -2,8 +2,8 @@
 
 class ManufacturePage:
 
-    catelog_link_xpath="//div/ul/li[2]/a/span"
-    manufactures_link_xpath="//a/span[contains(text(),'Manufacturers')]"
+    catelog_link_xpath="//div[@class='main-sidebar']/div/ul/li/a/span[contains(text(),'Catalog')]"
+    manufactures_link_xpath="//ul[@class='treeview-menu']/li/a/span[contains(text(),'Manufacturers')]"
     add_new_button_link_xpath="//div[@class='pull-right']/a"
     text_box_name_xpath="//input[@id='Name']"
     button_save_xpath="//button[@name='save']"

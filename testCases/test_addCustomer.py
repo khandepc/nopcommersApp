@@ -18,22 +18,27 @@ class Test_003_AddCustomer:
         self.logger.info("************* Test_003_AddCustomer **************")
         self.driver=setup
         self.driver.get(self.baseURL)
+        self.logger.info("--- URL Entered")
 
         self.lp=LoginPage(self.driver)
         self.lp.SetUserName(self.username)
+        self.logger.info("--- Username Entered :"+self.username)
         self.lp.SetPassword(self.password)
+        self.logger.info("--- Password Entered :"+self.password)
         self.lp.ClickLogin()
+        self.logger.info("--- clicked on login")
         self.logger.info("*************** Login Successful ****************")
 
         self.logger.info("*************** Starting Add Customer Test ************")
-
         self.addcust=AddCustomer(self.driver)
         self.addcust.ClickOnCustomersMenu()
+        self.logger.info("--- clicked on Customers Menu")
         self.addcust.ClickOnCustomersMenuItem()
+        self.logger.info("--- clicked on Customers Menu Item")
         self.addcust.ClickOnAddnew()
+        self.logger.info("--- clicked on Add New")
 
         self.logger.info("*********** Providing customer info ************")
-
         self.email = random_generator() + "@gmail.com"
         self.addcust.setEmail(self.email)
         self.addcust.setPassword("test123")

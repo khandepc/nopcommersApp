@@ -1,175 +1,93 @@
-2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
-2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
-2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
-2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
-2020-08-28 15:31:21,704 :INFO :root :********************* Test_001_Login **********************
-2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
-2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
-2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
-2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
-2020-08-28 15:31:21,704 :INFO :root :********************* Verifying Home Page Title **********************
-2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
-2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
-2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
-2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
-2020-08-28 15:31:29,004 :INFO :root :********************* Home Page Title test is passed **********************
-2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
-2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
-2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
-2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
-2020-08-28 15:31:36,131 :INFO :root :********************* Verifying login test **********************
-2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
-2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
-2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
-2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
-2020-08-28 15:31:51,540 :INFO :root :********************* login test is passed **********************
-2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
-2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
-2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
-2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
-2020-08-28 15:32:02,788 :INFO :root :*********** SearchCustomerByEmail_004 **************
-2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
-2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
-2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
-2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
-2020-08-28 15:32:33,476 :INFO :root :********** Login Successful **********
-2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
-2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
-2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
-2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
-2020-08-28 15:32:33,477 :INFO :root :********** Strating Search Customer By Email **********
-2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
-2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
-2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
-2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
-2020-08-28 15:32:50,173 :INFO :root :*********** TestSearchCustomerByName_005 **************
-2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
-2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
-2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
-2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
-2020-08-28 15:33:09,102 :INFO :root :********** Login Successful **********
-2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
-2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
-2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
-2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
-2020-08-28 15:33:09,103 :INFO :root :********** Strating Search Customer By Name **********
-2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
-2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
-2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
-2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
-2020-08-28 15:33:23,715 :INFO :root :********** Search Customer By Name **********
-2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
-2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
-2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
-2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
-2020-08-28 15:33:45,291 :INFO :root :************* Test_003_AddCustomer **************
-2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
-2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
-2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
-2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
-2020-08-28 15:34:08,334 :INFO :root :*************** Login Successful ****************
-2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
-2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
-2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
-2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
-2020-08-28 15:34:08,335 :INFO :root :*************** Starting Add Customer Test ************
-2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
-2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
-2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
-2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
-2020-08-28 15:34:15,273 :INFO :root :*********** Providing customer info ************
-2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
-2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
-2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
-2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
-2020-08-28 15:34:34,529 :INFO :root :*********** Saving customer info *************
-2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
-2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
-2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
-2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
-2020-08-28 15:34:34,530 :INFO :root :*********** Add customer validation Started **********
-2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
-2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
-2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
-2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
-2020-08-28 15:34:34,894 :INFO :root :********** Add customer test Passed **********
-2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
-2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
-2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
-2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
-2020-08-28 15:34:35,259 :INFO :root :********** Ending Test_003_AddCustomer *************
-2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
-2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
-2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
-2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
-2020-08-28 15:34:41,246 :INFO :root :********************* Test_002_DDT_Login ************************
-2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
-2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
-2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
-2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
-2020-08-28 15:34:41,248 :INFO :root :********************* Verifying login DDT test **********************
-2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
-2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
-2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
-2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
-2020-08-28 15:35:17,039 :INFO :root :*** Passed ***
-2020-09-03 15:40:58,804 :INFO :Test_002_DDT_Login :********************* Test_002_DDT_Login ************************
-2020-09-03 15:40:58,891 :INFO :Test_002_DDT_Login :********************* Verifying login DDT test **********************
-2020-09-03 15:41:28,236 :INFO :Test_002_DDT_Login :*** Passed ***
-2020-09-03 15:41:38,401 :INFO :Test_002_DDT_Login :*** Passed ***
-2020-09-03 15:41:45,868 :INFO :Test_002_DDT_Login :*** Passed ***
-2020-09-03 15:41:54,703 :INFO :Test_002_DDT_Login :*** Passed ***
-2020-09-03 15:41:54,703 :INFO :Test_002_DDT_Login :*** Login DDT test Passed ***
-2020-09-03 15:41:56,378 :INFO :Test_002_DDT_Login :******************** End of login DDT test ***************************
-2020-09-03 15:41:56,378 :INFO :Test_002_DDT_Login :********************* completed TC_Login_DDT_002 ***********************
-2020-09-08 16:08:49,387 :INFO :Test_001_Login :********************* Test_001_Login **********************
-2020-09-08 16:08:49,412 :INFO :Test_001_Login :********************* Verifying Home Page Title **********************
-2020-09-08 16:09:06,972 :INFO :Test_001_Login :********************* Home Page Title test is passed **********************
-2020-09-08 16:09:14,509 :INFO :Test_001_Login :********************* Verifying login test **********************
-2020-09-08 16:09:51,648 :INFO :Test_001_Login :********************* login test is passed **********************
-2020-09-08 16:10:02,779 :INFO :TestSearchCustomerByEmail_004 :*********** SearchCustomerByEmail_004 **************
-2020-09-08 16:10:38,006 :INFO :TestSearchCustomerByEmail_004 :********** Login Successful **********
-2020-09-08 16:10:38,006 :INFO :TestSearchCustomerByEmail_004 :********** Strating Search Customer By Email **********
-2020-09-08 16:10:43,241 :INFO :TestSearchCustomerByEmail_004 :********** Search Customer By EmailID **********
-2020-09-08 16:10:49,218 :INFO :TestSearchCustomerByEmail_004 :********** TC_SearchCustomerByEmail_004 Finished **********
-2020-09-08 16:10:58,952 :INFO :TestSearchCustomerByName_005 :*********** TestSearchCustomerByName_005 **************
-2020-09-08 16:11:16,935 :INFO :TestSearchCustomerByName_005 :********** Login Successful **********
-2020-09-08 16:11:16,935 :INFO :TestSearchCustomerByName_005 :********** Strating Search Customer By Name **********
-2020-09-08 16:11:22,541 :INFO :TestSearchCustomerByName_005 :********** Search Customer By Name **********
-2020-09-08 16:11:28,086 :INFO :TestSearchCustomerByName_005 :********** TC_SearchCustomerByName_005 **********
-2020-09-08 16:11:35,608 :INFO :Test_003_AddCustomer :************* Test_003_AddCustomer **************
-2020-09-08 16:11:58,507 :INFO :Test_003_AddCustomer :*************** Login Successful ****************
-2020-09-08 16:11:58,507 :INFO :Test_003_AddCustomer :*************** Starting Add Customer Test ************
-2020-09-08 16:12:09,461 :INFO :Test_003_AddCustomer :*********** Providing customer info ************
-2020-09-08 16:13:02,519 :INFO :Test_003_AddCustomer :*********** Saving customer info *************
-2020-09-08 16:13:02,520 :INFO :Test_003_AddCustomer :*********** Add customer validation Started **********
-2020-09-08 16:13:03,249 :INFO :Test_003_AddCustomer :********** Add customer test Passed **********
-2020-09-08 16:13:03,443 :INFO :Test_003_AddCustomer :********** Ending Test_003_AddCustomer *************
-2020-09-08 16:13:12,868 :INFO :Test_002_DDT_Login :********************* Test_002_DDT_Login ************************
-2020-09-08 16:13:12,869 :INFO :Test_002_DDT_Login :********************* Verifying login DDT test **********************
-2020-09-08 16:13:44,232 :INFO :Test_002_DDT_Login :*** Passed ***
-2020-09-08 16:13:56,582 :INFO :Test_002_DDT_Login :*** Passed ***
-2020-09-08 16:14:03,559 :INFO :Test_002_DDT_Login :*** Passed ***
-2020-09-08 16:14:11,037 :INFO :Test_002_DDT_Login :*** Passed ***
-2020-09-08 16:14:11,038 :INFO :Test_002_DDT_Login :*** Login DDT test Passed ***
-2020-09-08 16:14:11,279 :INFO :Test_002_DDT_Login :******************** End of login DDT test ***************************
-2020-09-08 16:14:11,279 :INFO :Test_002_DDT_Login :********************* completed TC_Login_DDT_002 ***********************
-2020-09-13 16:22:50,772 :INFO :Test_001_Login :********************* Test_001_Login **********************
-2020-09-13 16:22:50,885 :INFO :Test_001_Login :********************* Verifying Home Page Title **********************
-2020-09-13 16:23:06,707 :INFO :Test_001_Login :********************* Home Page Title test is passed **********************
-2020-09-13 16:23:17,730 :INFO :TestSearchCustomerByEmail_004 :*********** SearchCustomerByEmail_004 **************
-2020-09-13 16:23:38,922 :INFO :TestSearchCustomerByEmail_004 :********** Login Successful **********
-2020-09-13 16:23:38,922 :INFO :TestSearchCustomerByEmail_004 :********** Strating Search Customer By Email **********
-2020-09-13 16:23:41,774 :INFO :TestSearchCustomerByEmail_004 :********** Search Customer By EmailID **********
-2020-09-13 16:23:47,460 :INFO :TestSearchCustomerByEmail_004 :********** TC_SearchCustomerByEmail_004 Finished **********
-2020-09-13 16:44:32,516 :INFO :Test_001_Login :********************* Test_001_Login **********************
-2020-09-13 16:44:32,520 :INFO :Test_001_Login :********************* Verifying Home Page Title **********************
-2020-09-13 16:44:38,092 :INFO :Test_001_Login :********************* Home Page Title test is passed **********************
-2020-09-13 16:44:42,345 :INFO :Test_001_Login :********************* Verifying login test **********************
-2020-09-13 16:44:57,666 :INFO :Test_001_Login :********************* login test is passed **********************
-2020-09-14 16:12:34,986 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
-2020-09-14 16:13:24,938 :INFO :Test_006_AddManifacturer :********** login successfull **********
-2020-09-14 16:13:24,938 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
-2020-09-14 16:26:16,707 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
-2020-09-14 16:26:57,250 :INFO :Test_006_AddManifacturer :********** login successfull **********
-2020-09-14 16:26:57,250 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-15 10:39:42,927 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-15 10:39:53,473 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-15 10:39:53,797 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2020-09-15 10:39:54,063 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2020-09-15 10:40:15,798 :INFO :Test_006_AddManifacturer :--- clicked on login
+2020-09-15 10:40:15,799 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2020-09-15 10:40:15,799 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-15 10:40:15,907 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2020-09-15 10:40:41,512 :INFO :Test_006_AddManifacturer :--- clicked on manufacturer
+2020-09-15 10:41:46,536 :INFO :Test_006_AddManifacturer :--- clicked on Add new button
+2020-09-15 10:41:46,537 :INFO :Test_006_AddManifacturer :********** Entering manufacturer name **********
+2020-09-15 10:41:47,527 :INFO :Test_006_AddManifacturer :--- Manufacturer name Entered :Khande works private limited
+2020-09-15 10:42:14,700 :INFO :Test_006_AddManifacturer :--- clicked on save button
+2020-09-15 10:42:14,700 :INFO :Test_006_AddManifacturer :********** saving manufacturer **********
+2020-09-15 10:42:14,700 :INFO :Test_006_AddManifacturer :********** Add manufacturer validation started **********
+2020-09-15 10:42:15,086 :INFO :Test_006_AddManifacturer :********** Add manufacturer Test Passed **********
+2020-09-15 10:42:22,892 :INFO :Test_006_AddManifacturer :********** Ending Test_006_AddManifacturer **********
+2020-09-15 13:34:03,055 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-15 13:34:19,956 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-15 13:34:20,141 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2020-09-15 13:34:20,212 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2020-09-15 13:34:45,722 :INFO :Test_006_AddManifacturer :--- clicked on login
+2020-09-15 13:34:45,722 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2020-09-15 13:34:45,723 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-15 13:34:46,760 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2020-09-15 13:42:22,863 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-15 13:42:32,572 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-15 13:42:32,690 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2020-09-15 13:42:32,755 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2020-09-15 13:42:39,517 :INFO :Test_006_AddManifacturer :--- clicked on login
+2020-09-15 13:42:39,517 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2020-09-15 13:42:39,518 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-15 13:42:40,046 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2020-09-15 13:42:42,700 :INFO :Test_006_AddManifacturer :--- clicked on manufacturer
+2020-09-15 13:42:46,001 :INFO :Test_006_AddManifacturer :--- clicked on Add new button
+2020-09-15 13:42:46,001 :INFO :Test_006_AddManifacturer :********** Entering manufacturer name **********
+2020-09-15 13:42:46,148 :INFO :Test_006_AddManifacturer :--- Manufacturer name Entered :Khande works private limited
+2020-09-15 13:42:46,886 :INFO :Test_006_AddManifacturer :--- clicked on save button
+2020-09-15 13:42:46,887 :INFO :Test_006_AddManifacturer :********** saving manufacturer **********
+2020-09-15 13:42:46,887 :INFO :Test_006_AddManifacturer :********** Add manufacturer validation started **********
+2020-09-15 13:42:48,007 :ERROR :Test_006_AddManifacturer :********** Add Manufacturer Test Failed **********
+2020-09-15 13:45:01,400 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-15 13:45:09,581 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-15 13:45:09,754 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2020-09-15 13:45:09,817 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2020-09-15 13:45:56,464 :INFO :Test_006_AddManifacturer :--- clicked on login
+2020-09-15 13:45:56,464 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2020-09-15 13:45:56,464 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-15 13:45:57,484 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2020-09-15 13:47:24,918 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-15 13:47:31,444 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-15 13:47:31,695 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2020-09-15 13:47:31,877 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2020-09-15 13:47:42,029 :INFO :Test_006_AddManifacturer :--- clicked on login
+2020-09-15 13:47:42,029 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2020-09-15 13:47:42,029 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-15 13:47:42,141 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2020-09-15 13:47:46,726 :INFO :Test_006_AddManifacturer :--- clicked on manufacturer
+2020-09-15 13:47:52,945 :INFO :Test_006_AddManifacturer :--- clicked on Add new button
+2020-09-15 13:47:52,946 :INFO :Test_006_AddManifacturer :********** Entering manufacturer name **********
+2020-09-15 13:47:53,460 :INFO :Test_006_AddManifacturer :--- Manufacturer name Entered :Khande works private limited
+2020-09-15 13:47:55,949 :INFO :Test_006_AddManifacturer :--- clicked on save button
+2020-09-15 13:47:55,949 :INFO :Test_006_AddManifacturer :********** saving manufacturer **********
+2020-09-15 13:47:55,949 :INFO :Test_006_AddManifacturer :********** Add manufacturer validation started **********
+2020-09-15 13:47:56,162 :INFO :Test_006_AddManifacturer :********** Add manufacturer Test Passed **********
+2020-09-15 13:47:56,328 :INFO :Test_006_AddManifacturer :********** Ending Test_006_AddManifacturer **********
+2020-09-15 13:52:14,527 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-15 13:52:33,192 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-16 10:58:04,336 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-16 10:58:17,079 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-16 10:58:17,365 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2020-09-16 10:58:17,552 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2020-09-16 10:58:47,748 :INFO :Test_006_AddManifacturer :--- clicked on login
+2020-09-16 10:58:47,748 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2020-09-16 10:58:47,748 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-16 10:58:52,843 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2020-09-16 15:25:01,537 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-16 15:25:16,532 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-16 15:25:16,817 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2020-09-16 15:25:16,990 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2020-09-16 15:25:27,759 :INFO :Test_006_AddManifacturer :--- clicked on login
+2020-09-16 15:25:27,760 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2020-09-16 15:25:27,760 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-16 15:25:27,865 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2020-09-16 15:25:30,771 :INFO :Test_006_AddManifacturer :--- clicked on manufacturer
+2020-09-16 15:25:41,304 :INFO :Test_006_AddManifacturer :--- clicked on Add new button
+2020-09-16 15:25:41,304 :INFO :Test_006_AddManifacturer :********** Entering manufacturer name **********
+2020-09-16 15:25:42,129 :INFO :Test_006_AddManifacturer :--- Manufacturer name Entered :Khande works private limited
+2020-09-16 15:25:49,883 :INFO :Test_006_AddManifacturer :--- clicked on save button
+2020-09-16 15:25:49,883 :INFO :Test_006_AddManifacturer :********** saving manufacturer **********
+2020-09-16 15:25:49,883 :INFO :Test_006_AddManifacturer :********** Add manufacturer validation started **********
+2020-09-16 15:25:50,295 :INFO :Test_006_AddManifacturer :********** Add manufacturer Test Passed **********
+2020-09-16 15:25:50,739 :INFO :Test_006_AddManifacturer :********** Ending Test_006_AddManifacturer **********
