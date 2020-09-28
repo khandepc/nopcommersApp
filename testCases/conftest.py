@@ -6,19 +6,19 @@ import pytest
 @pytest.fixture()
 def setup(browser):
     if browser=="chrome":
-        driver=webdriver.Chrome(executable_path="C:\\Users\\chand\\Downloads\\chromedriver_version_83_win32\\chromedriver.exe")
+        driver=webdriver.Chrome(executable_path="./drivers/chromedriver.exe")
         driver.maximize_window()
         print("launching chrome browser..............")
     elif browser=="firefox":
-        driver = webdriver.Firefox(executable_path="C:\\Users\chand\\Downloads\\geckodriver-v0.27.0-win64\\geckodriver.exe")
+        driver = webdriver.Firefox(executable_path="./drivers/geckodriver.exe")
         driver.maximize_window()
         print("launching firefox browser..............")
     elif browser=="ie":
-        driver = webdriver.Chrome(executable_path="C:\\Users\\chand\\Downloads\\chromedriver_version_83_win32\\chromedriver.exe")
+        driver = webdriver.Chrome(executable_path="./drivers/IEDriverServer.exe")
         driver.maximize_window()
         print("launching IE browser..............")
     else:
-        driver = webdriver.Chrome(executable_path="C:\\Users\\chand\\Downloads\\chromedriver_version_83_win32\\chromedriver.exe")
+        driver = webdriver.Chrome(executable_path="./drivers/chromedriver.exe")
         print("launching chrome browser bydefault..............")
         driver.maximize_window()
     return driver
