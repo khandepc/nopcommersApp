@@ -91,3 +91,117 @@
 2020-09-16 15:25:49,883 :INFO :Test_006_AddManifacturer :********** Add manufacturer validation started **********
 2020-09-16 15:25:50,295 :INFO :Test_006_AddManifacturer :********** Add manufacturer Test Passed **********
 2020-09-16 15:25:50,739 :INFO :Test_006_AddManifacturer :********** Ending Test_006_AddManifacturer **********
+2020-09-28 11:22:48,078 :INFO :Test_001_Login :********************* Verifying login test **********************
+2020-09-28 11:23:04,971 :INFO :Test_001_Login :********************* login test is passed **********************
+2020-09-28 11:23:15,400 :INFO :Test_003_AddCustomer :************* Test_003_AddCustomer **************
+2020-09-28 11:23:19,732 :INFO :Test_003_AddCustomer :--- URL Entered
+2020-09-28 11:23:19,995 :INFO :Test_003_AddCustomer :--- Username Entered :admin@yourstore.com
+2020-09-28 11:23:20,186 :INFO :Test_003_AddCustomer :--- Password Entered :admin
+2020-09-28 11:23:28,662 :INFO :Test_003_AddCustomer :--- clicked on login
+2020-09-28 11:23:28,663 :INFO :Test_003_AddCustomer :*************** Login Successful ****************
+2020-09-28 11:23:28,663 :INFO :Test_003_AddCustomer :*************** Starting Add Customer Test ************
+2020-09-28 11:23:28,751 :INFO :Test_003_AddCustomer :--- clicked on Customers Menu
+2020-09-28 11:23:33,294 :INFO :Test_003_AddCustomer :--- clicked on Customers Menu Item
+2020-09-28 11:23:35,636 :INFO :Test_003_AddCustomer :--- clicked on Add New
+2020-09-28 11:23:35,637 :INFO :Test_003_AddCustomer :*********** Providing customer info ************
+2020-09-28 11:23:51,393 :INFO :Test_003_AddCustomer :*********** Saving customer info *************
+2020-09-28 11:23:51,393 :INFO :Test_003_AddCustomer :*********** Add customer validation Started **********
+2020-09-28 11:23:51,658 :INFO :Test_003_AddCustomer :********** Add customer test Passed **********
+2020-09-28 11:23:52,077 :INFO :Test_003_AddCustomer :********** Ending Test_003_AddCustomer *************
+2020-09-28 11:23:58,380 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-28 11:24:04,338 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-28 11:24:04,559 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2020-09-28 11:24:04,691 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2020-09-28 11:24:14,533 :INFO :Test_006_AddManifacturer :--- clicked on login
+2020-09-28 11:24:14,533 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2020-09-28 11:24:14,534 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-28 11:24:14,613 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2020-09-28 11:24:18,772 :INFO :Test_006_AddManifacturer :--- clicked on manufacturer
+2020-09-28 11:24:26,112 :INFO :Test_006_AddManifacturer :--- clicked on Add new button
+2020-09-28 11:24:26,113 :INFO :Test_006_AddManifacturer :********** Entering manufacturer name **********
+2020-09-28 11:24:26,433 :INFO :Test_006_AddManifacturer :--- Manufacturer name Entered :Khande works private limited
+2020-09-28 11:24:28,773 :INFO :Test_006_AddManifacturer :--- clicked on save button
+2020-09-28 11:24:28,773 :INFO :Test_006_AddManifacturer :********** saving manufacturer **********
+2020-09-28 11:24:28,774 :INFO :Test_006_AddManifacturer :********** Add manufacturer validation started **********
+2020-09-28 11:24:28,975 :INFO :Test_006_AddManifacturer :********** Add manufacturer Test Passed **********
+2020-09-28 11:24:29,287 :INFO :Test_006_AddManifacturer :********** Ending Test_006_AddManifacturer **********
+2020-09-28 12:30:57,559 :INFO :Test_search_manufacturere_by_name_007 :******Test_search_manufacturere_by_name_007 ******
+2020-09-28 12:31:09,487 :INFO :Test_search_manufacturere_by_name_007 :****** Login successfull ******
+2020-09-28 12:31:09,487 :INFO :Test_search_manufacturere_by_name_007 :****** search manufacturer by name started ******
+2020-09-28 12:31:18,007 :INFO :Test_search_manufacturere_by_name_007 :****** Search manufacturer by name Validation start ******
+2020-09-28 12:31:18,060 :ERROR :Test_search_manufacturere_by_name_007 :****** Search manufacturer test failed ******
+2020-09-28 12:33:01,761 :INFO :Test_search_manufacturere_by_name_007 :******Test_search_manufacturere_by_name_007 ******
+2020-09-28 12:33:15,198 :INFO :Test_search_manufacturere_by_name_007 :****** Login successfull ******
+2020-09-28 12:33:15,198 :INFO :Test_search_manufacturere_by_name_007 :****** search manufacturer by name started ******
+2020-09-28 12:33:18,091 :INFO :Test_search_manufacturere_by_name_007 :****** Search manufacturer by name Validation start ******
+2020-09-28 12:33:18,127 :ERROR :Test_search_manufacturere_by_name_007 :****** Search manufacturer test failed ******
+2020-09-28 13:19:30,512 :INFO :Test_search_manufacturere_by_name_007 :******Test_search_manufacturere_by_name_007 ******
+2020-09-28 13:19:42,046 :INFO :Test_search_manufacturere_by_name_007 :****** Login successfull ******
+2020-09-28 13:19:42,047 :INFO :Test_search_manufacturere_by_name_007 :****** search manufacturer by name started ******
+2020-09-28 13:26:11,881 :INFO :Test_search_manufacturere_by_name_007 :******Test_search_manufacturere_by_name_007 ******
+2020-09-28 13:26:23,165 :INFO :Test_search_manufacturere_by_name_007 :****** Login successfull ******
+2020-09-28 13:26:23,165 :INFO :Test_search_manufacturere_by_name_007 :****** search manufacturer by name started ******
+2020-09-28 13:27:51,620 :INFO :Test_search_manufacturere_by_name_007 :******Test_search_manufacturere_by_name_007 ******
+2020-09-28 13:28:05,219 :INFO :Test_search_manufacturere_by_name_007 :****** Login successfull ******
+2020-09-28 13:28:05,219 :INFO :Test_search_manufacturere_by_name_007 :****** search manufacturer by name started ******
+2020-09-30 17:00:01,974 :INFO :Test_001_Login :********************* Test_001_Login **********************
+2020-09-30 17:00:02,256 :INFO :Test_001_Login :********************* Verifying Home Page Title **********************
+2020-09-30 17:00:22,241 :INFO :Test_001_Login :********************* Home Page Title test is passed **********************
+2020-09-30 17:00:28,864 :INFO :Test_001_Login :********************* Verifying login test **********************
+2020-09-30 17:00:43,852 :INFO :Test_001_Login :********************* login test is passed **********************
+2020-09-30 17:00:51,518 :INFO :TestSearchCustomerByEmail_004 :*********** SearchCustomerByEmail_004 **************
+2020-09-30 17:01:04,759 :INFO :TestSearchCustomerByEmail_004 :********** Login Successful **********
+2020-09-30 17:01:04,759 :INFO :TestSearchCustomerByEmail_004 :********** Strating Search Customer By Email **********
+2020-09-30 17:01:07,637 :INFO :TestSearchCustomerByEmail_004 :********** Search Customer By EmailID **********
+2020-09-30 17:01:13,414 :INFO :TestSearchCustomerByEmail_004 :********** TC_SearchCustomerByEmail_004 Finished **********
+2020-09-30 17:01:25,392 :INFO :TestSearchCustomerByName_005 :*********** TestSearchCustomerByName_005 **************
+2020-09-30 17:01:41,190 :INFO :TestSearchCustomerByName_005 :********** Login Successful **********
+2020-09-30 17:01:41,190 :INFO :TestSearchCustomerByName_005 :********** Strating Search Customer By Name **********
+2020-09-30 17:01:47,205 :INFO :TestSearchCustomerByName_005 :********** Search Customer By Name **********
+2020-09-30 17:01:52,791 :INFO :TestSearchCustomerByName_005 :********** TC_SearchCustomerByName_005 **********
+2020-09-30 17:02:00,486 :INFO :Test_003_AddCustomer :************* Test_003_AddCustomer **************
+2020-09-30 17:02:06,076 :INFO :Test_003_AddCustomer :--- URL Entered
+2020-09-30 17:02:06,431 :INFO :Test_003_AddCustomer :--- Username Entered :admin@yourstore.com
+2020-09-30 17:02:06,672 :INFO :Test_003_AddCustomer :--- Password Entered :admin
+2020-09-30 17:02:18,289 :INFO :Test_003_AddCustomer :--- clicked on login
+2020-09-30 17:02:18,289 :INFO :Test_003_AddCustomer :*************** Login Successful ****************
+2020-09-30 17:02:18,290 :INFO :Test_003_AddCustomer :*************** Starting Add Customer Test ************
+2020-09-30 17:02:18,416 :INFO :Test_003_AddCustomer :--- clicked on Customers Menu
+2020-09-30 17:02:21,170 :INFO :Test_003_AddCustomer :--- clicked on Customers Menu Item
+2020-09-30 17:02:23,781 :INFO :Test_003_AddCustomer :--- clicked on Add New
+2020-09-30 17:02:23,782 :INFO :Test_003_AddCustomer :*********** Providing customer info ************
+2020-09-30 17:02:40,914 :INFO :Test_003_AddCustomer :*********** Saving customer info *************
+2020-09-30 17:02:40,914 :INFO :Test_003_AddCustomer :*********** Add customer validation Started **********
+2020-09-30 17:02:41,209 :INFO :Test_003_AddCustomer :********** Add customer test Passed **********
+2020-09-30 17:02:45,123 :INFO :Test_003_AddCustomer :********** Ending Test_003_AddCustomer *************
+2020-09-30 17:02:53,482 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2020-09-30 17:03:05,127 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2020-09-30 17:03:05,455 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2020-09-30 17:03:05,668 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2020-09-30 17:03:26,595 :INFO :Test_006_AddManifacturer :--- clicked on login
+2020-09-30 17:03:26,595 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2020-09-30 17:03:26,595 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2020-09-30 17:03:26,808 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2020-09-30 17:03:33,904 :INFO :Test_006_AddManifacturer :--- clicked on manufacturer
+2020-09-30 17:03:50,855 :INFO :Test_006_AddManifacturer :--- clicked on Add new button
+2020-09-30 17:03:50,855 :INFO :Test_006_AddManifacturer :********** Entering manufacturer name **********
+2020-09-30 17:03:51,221 :INFO :Test_006_AddManifacturer :--- Manufacturer name Entered :Khande works private limited
+2020-09-30 17:03:56,746 :INFO :Test_006_AddManifacturer :--- clicked on save button
+2020-09-30 17:03:56,747 :INFO :Test_006_AddManifacturer :********** saving manufacturer **********
+2020-09-30 17:03:56,747 :INFO :Test_006_AddManifacturer :********** Add manufacturer validation started **********
+2020-09-30 17:03:57,023 :INFO :Test_006_AddManifacturer :********** Add manufacturer Test Passed **********
+2020-09-30 17:04:02,022 :INFO :Test_006_AddManifacturer :********** Ending Test_006_AddManifacturer **********
+2020-09-30 17:04:12,332 :INFO :Test_002_DDT_Login :********************* Test_002_DDT_Login ************************
+2020-09-30 17:04:12,334 :INFO :Test_002_DDT_Login :********************* Verifying login DDT test **********************
+2020-09-30 17:04:42,569 :INFO :Test_002_DDT_Login :*** Passed ***
+2020-09-30 17:04:52,738 :INFO :Test_002_DDT_Login :*** Passed ***
+2020-09-30 17:05:00,131 :INFO :Test_002_DDT_Login :*** Passed ***
+2020-09-30 17:05:06,800 :INFO :Test_002_DDT_Login :*** Passed ***
+2020-09-30 17:05:06,801 :INFO :Test_002_DDT_Login :*** Login DDT test Passed ***
+2020-09-30 17:05:13,272 :INFO :Test_002_DDT_Login :******************** End of login DDT test ***************************
+2020-09-30 17:05:13,273 :INFO :Test_002_DDT_Login :********************* completed TC_Login_DDT_002 ***********************
+2020-09-30 17:05:21,693 :INFO :Test_search_manufacturere_by_name_007 :******Test_search_manufacturere_by_name_007 ******
+2020-09-30 17:05:37,863 :INFO :Test_search_manufacturere_by_name_007 :****** Login successfull ******
+2020-09-30 17:05:37,863 :INFO :Test_search_manufacturere_by_name_007 :****** search manufacturer by name started ******
+2020-09-30 17:05:42,246 :INFO :Test_search_manufacturere_by_name_007 :****** Search manufacturer by name Validation start ******
+2020-09-30 17:05:42,298 :ERROR :Test_search_manufacturere_by_name_007 :****** Search manufacturer test failed ******
