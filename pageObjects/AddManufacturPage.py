@@ -42,3 +42,6 @@ class ManufacturePage:
         self.driver.find_element_by_xpath(self.search_button_xpath).click()
 
 
+    def search_manufacturer_by_name(self,name):
+        pass
+

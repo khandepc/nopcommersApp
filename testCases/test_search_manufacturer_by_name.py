@@ -33,11 +33,12 @@ class Test_search_manufacturere_by_name_007:
         self.mp.click_on_search_button()
 
         self.logger.info("****** Search manufacturer by name Validation start ******")
-        
+
         actual_result=self.driver.find_element_by_xpath("//*[@id='manufacturers-grid']/tbody/tr[1]/td[2]").text
         expected_result="khande works"
         if expected_result in actual_result:
             assert True
+            self.logger.info("actual result is "+actual_result)
             self.logger.info("****** Search manufacturer test passed ******")
         else:
             self.logger.error("****** Search manufacturer test failed ******")
