@@ -1,4 +1,3 @@
-
 import time
 import pytest
 from pageObjects.LoginPage import LoginPage
@@ -33,9 +32,9 @@ class Test_search_manufacturere_by_name_007:
         self.mp.click_on_search_button()
 
         self.logger.info("****** Search manufacturer by name Validation start ******")
-
-        actual_result=self.driver.find_element_by_xpath("//*[@id='manufacturers-grid']/tbody/tr[1]/td[2]").text
-        expected_result="khande works"
+        time.sleep(5)
+        actual_result=self.driver.find_element_by_xpath("//*[@id='manufacturers-grid']/tbody/tr/td[2]").text
+        expected_result="Khande works"
         if expected_result in actual_result:
             assert True
             self.logger.info("actual result is "+actual_result)
@@ -43,6 +42,7 @@ class Test_search_manufacturere_by_name_007:
         else:
             self.logger.error("****** Search manufacturer test failed ******")
             self.driver.save_screenshot(".\\Screenshots\\" + "test_Search_manufacturer_scr.png")
+            self.driver.close()
             assert False
         self.driver.close()
         self.logger.info("****** Ending Test_search_manufacturere_by_name_007 ******")
