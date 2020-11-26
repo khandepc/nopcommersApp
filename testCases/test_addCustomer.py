@@ -58,15 +58,17 @@ class Test_003_AddCustomer:
         self.msg = self.driver.find_element_by_tag_name("body").text
 
         #print(self.msg)
-        if "customer has been added successfully." in self.msg:
+        if "customer has been added successfully123." in self.msg:
             assert True == True
             self.logger.info("********** Add customer test Passed **********")
         else:
+
             self.driver.save_screenshot(".\\Screenshots\\" + "test_addCustomer_scr.png") # Screenshot
             self.logger.error("********** Add Customer Test Failed **********")
+            self.driver.close()
             assert True == False
 
-        self.driver.close()
+        # self.driver.close()
         self.logger.info("********** Ending Test_003_AddCustomer *************")
 # this function created for generating random email
 

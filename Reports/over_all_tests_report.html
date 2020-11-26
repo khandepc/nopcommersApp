@@ -242,8 +242,8 @@ function filter_table(elem) {
     not_found_message.hidden = !all_rows_hidden;
 }
 </script>
-    <h1>updated_regression_report.html</h1>
-    <p>Report generated on 23-Nov-2020 at 23:23:44 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.1.1</p>
+    <h1>over_all_tests_report.html</h1>
+    <p>Report generated on 26-Nov-2020 at 12:06:53 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -265,8 +265,8 @@ function filter_table(elem) {
         <td>Tester</td>
         <td>Prashant Khande</td></tr></table>
     <h2>Summary</h2>
-    <p>5 tests ran in 131.17 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">5 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>8 tests ran in 237.86 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">7 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -277,11 +277,33 @@ function filter_table(elem) {
           <th>Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
+      <tbody class="failed results-table-row">
+        <tr>
+          <td class="col-result">Failed</td>
+          <td class="col-name">testCases/test_addCustomer.py::Test_003_AddCustomer::test_addCustomer</td>
+          <td class="col-duration">35.64</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log">self = &lt;testCases.test_addCustomer.Test_003_AddCustomer object at 0x00000165BBBBC898&gt;, setup = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session=&quot;e6f8dda7ef5a6e90b0ee2e5a620d3002&quot;)&gt;<br/><br/>    @pytest.mark.sanity<br/>    def test_addCustomer(self,setup):<br/>        self.logger.info(&quot;************* Test_003_AddCustomer **************&quot;)<br/>        self.driver=setup<br/>        self.driver.get(self.baseURL)<br/>        self.logger.info(&quot;--- URL Entered&quot;)<br/>    <br/>        self.lp=LoginPage(self.driver)<br/>        self.lp.SetUserName(self.username)<br/>        self.logger.info(&quot;--- Username Entered :&quot;+self.username)<br/>        self.lp.SetPassword(self.password)<br/>        self.logger.info(&quot;--- Password Entered :&quot;+self.password)<br/>        self.lp.ClickLogin()<br/>        self.logger.info(&quot;--- clicked on login&quot;)<br/>        self.logger.info(&quot;*************** Login Successful ****************&quot;)<br/>    <br/>        self.logger.info(&quot;*************** Starting Add Customer Test ************&quot;)<br/>        self.addcust=AddCustomer(self.driver)<br/>        self.addcust.ClickOnCustomersMenu()<br/>        self.logger.info(&quot;--- clicked on Customers Menu&quot;)<br/>        self.addcust.ClickOnCustomersMenuItem()<br/>        self.logger.info(&quot;--- clicked on Customers Menu Item&quot;)<br/>        self.addcust.ClickOnAddnew()<br/>        self.logger.info(&quot;--- clicked on Add New&quot;)<br/>    <br/>        self.logger.info(&quot;*********** Providing customer info ************&quot;)<br/>        self.email = random_generator() + &quot;@gmail.com&quot;<br/>        self.addcust.setEmail(self.email)<br/>        self.addcust.setPassword(&quot;test123&quot;)<br/>        self.addcust.setFirstname(&quot;Prashant&quot;)<br/>        self.addcust.setLastname(&quot;Khande&quot;)<br/>        self.addcust.setGender(&quot;Male&quot;)<br/>        self.addcust.setDob(&quot;4/09/1996&quot;)  # Format : D/MM/YYYY<br/>        self.addcust.setCompantName(&quot;KWPL&quot;)<br/>        #self.addcust.setNewsletter()<br/>        self.addcust.setCustomerRoles(&quot;Guests&quot;)<br/>        self.addcust.setManagerofVendor(&#x27;Vendor 2&#x27;)<br/>        self.addcust.setAdminContent(&quot;This is foe testing...&quot;)<br/>        self.addcust.ClickOnSave()<br/>        self.logger.info(&quot;*********** Saving customer info *************&quot;)<br/>    <br/>        self.logger.info(&quot;*********** Add customer validation Started **********&quot;)<br/>        self.msg = self.driver.find_element_by_tag_name(&quot;body&quot;).text<br/>    <br/>        #print(self.msg)<br/>        if &quot;customer has been added successfully123.&quot; in self.msg:<br/>            assert True == True<br/>            self.logger.info(&quot;********** Add customer test Passed **********&quot;)<br/>        else:<br/>    <br/>            self.driver.save_screenshot(&quot;.\\Screenshots\\&quot; + &quot;test_addCustomer_scr.png&quot;) # Screenshot<br/>            self.logger.error(&quot;********** Add Customer Test Failed **********&quot;)<br/>            self.driver.close()<br/>&gt;           assert True == False<br/><span class="error">E           assert True == False</span><br/><span class="error">E             +True</span><br/><span class="error">E             -False</span><br/><br/>testCases\test_addCustomer.py:69: AssertionError<br/> -------------------------------Captured log call-------------------------------- <br/>[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:18 ************* Test_003_AddCustomer **************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:21 --- URL Entered
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:25 --- Username Entered :admin@yourstore.com
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:27 --- Password Entered :admin
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:29 --- clicked on login
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:30 *************** Login Successful ****************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:32 *************** Starting Add Customer Test ************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:35 --- clicked on Customers Menu
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:37 --- clicked on Customers Menu Item
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:39 --- clicked on Add New
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:41 *********** Providing customer info ************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:55 *********** Saving customer info *************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:57 *********** Add customer validation Started **********
+[1m[31mERROR   [0m Test_003_AddCustomer:test_addCustomer.py:67 ********** Add Customer Test Failed **********<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">testCases/test_Login.py::Test_001_Login::test_homePage_Title</td>
-          <td class="col-duration">4.38</td>
+          <td class="col-duration">4.15</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -292,7 +314,7 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">testCases/test_Login.py::Test_001_Login::test_login</td>
-          <td class="col-duration">12.60</td>
+          <td class="col-duration">13.81</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -302,7 +324,7 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">testCases/test_SearchCustomerByEmail.py::TestSearchCustomerByEmail_004::test_searchCustomerByEmail</td>
-          <td class="col-duration">19.87</td>
+          <td class="col-duration">26.97</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -315,7 +337,7 @@ function filter_table(elem) {
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">testCases/test_SearchCustomerByName.py::TestSearchCustomerByName_005::test_searchCustomerByName</td>
-          <td class="col-duration">18.00</td>
+          <td class="col-duration">20.13</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -327,8 +349,33 @@ function filter_table(elem) {
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_add_manufacturer.py::Test_006_AddManifacturer::test_add_manufacturer</td>
+          <td class="col-duration">22.51</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:19 ********** Test_006_AddManifacturer **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:22 --- URL Entered Successfully
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:25 --- user name Entered :admin@yourstore.com
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:27 --- password Entered :admin
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:29 --- clicked on login
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:30 ********** login successfull **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:32 ********** Stating Add Manufacturer Test **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:35 --- clicked on cateloge
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:37 --- clicked on manufacturer
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:39 --- clicked on Add new button
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:41 ********** Entering manufacturer name **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:43 --- Manufacturer name Entered :Khande works private limited
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:45 --- clicked on save button
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:46 ********** saving manufacturer **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:48 ********** Add manufacturer validation started **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:54 ********** Add manufacturer Test Passed **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:61 ********** Ending Test_006_AddManifacturer **********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
           <td class="col-name">testCases/test_login_ddt.py::Test_002_DDT_Login::test_login_ddt</td>
-          <td class="col-duration">40.78</td>
+          <td class="col-duration">43.79</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -340,4 +387,19 @@ function filter_table(elem) {
 [32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:53 *** Passed ***
 [32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:56 *** Login DDT test Passed ***
 [32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:63 ******************** End of login DDT test ***************************
-[32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:64 ********************* completed TC_Login_DDT_002 ***********************<br/></div></td></tr></tbody></table></body></html>
+[32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:64 ********************* completed TC_Login_DDT_002 ***********************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_search_manufacturer_by_name.py::Test_search_manufacturere_by_name_007::test_search_manufacturer_by_name</td>
+          <td class="col-duration">21.53</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:17 ******Test_search_manufacturere_by_name_007 ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:25 ****** Login successfull ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:27 ****** search manufacturer by name started ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:34 ****** Search manufacturer by name Validation start ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:40 actual result is Khande works private limited
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:41 ****** Search manufacturer test passed ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:48 ****** Ending Test_search_manufacturere_by_name_007 ******<br/></div></td></tr></tbody></table></body></html>
