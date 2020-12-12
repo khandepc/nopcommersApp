@@ -1,0 +1,5 @@
+[32mINFO    [0m TestSearchCustomerByName_005:test_SearchCustomerByName.py:17 *********** TestSearchCustomerByName_005 **************
+[32mINFO    [0m TestSearchCustomerByName_005:test_SearchCustomerByName.py:25 ********** Login Successful **********
+[32mINFO    [0m TestSearchCustomerByName_005:test_SearchCustomerByName.py:27 ********** Strating Search Customer By Name **********
+[32mINFO    [0m TestSearchCustomerByName_005:test_SearchCustomerByName.py:32 ********** Search Customer By Name **********
+[32mINFO    [0m TestSearchCustomerByName_005:test_SearchCustomerByName.py:40 ********** TC_SearchCustomerByName_005 **********

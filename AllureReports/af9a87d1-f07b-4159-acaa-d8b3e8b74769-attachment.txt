@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_001_Login:test_Login.py:15 ********************* Test_001_Login **********************
+[32mINFO    [0m Test_001_Login:test_Login.py:16 ********************* Verifying Home Page Title **********************
+[32mINFO    [0m Test_001_Login:test_Login.py:23 ********************* Home Page Title test is passed **********************

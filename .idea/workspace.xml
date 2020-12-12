@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb539da9-98a1-4391-b0f5-3f2c2880b5ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/test_addCustomer_scr.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/test_addCustomer_scr.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testCases/test_addCustomer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_addCustomer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/test_login_ddt.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login_ddt.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testCases/test_addCustomer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            <state relative-caret-position="867">
+              <caret line="51" column="51" lean-forward="true" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="51" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -159,9 +155,9 @@
         <option value="$PROJECT_DIR$/pageObjects/AddManufacturPage.py" />
         <option value="$PROJECT_DIR$/testCases/test_search_manufacturer_by_name.py" />
         <option value="$PROJECT_DIR$/run.bat" />
-        <option value="$PROJECT_DIR$/testCases/test_addCustomer.py" />
         <option value="$PROJECT_DIR$/testCases/test_login_ddt.py" />
         <option value="$PROJECT_DIR$/testCases/conftest.py" />
+        <option value="$PROJECT_DIR$/testCases/test_addCustomer.py" />
       </list>
     </option>
   </component>
@@ -183,16 +179,6 @@
             <path>
               <item name="nopcommersApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="nopcommersApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nopcommersApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nopcommersApp" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nopcommersApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nopcommersApp" type="462c0819:PsiDirectoryNode" />
-              <item name="Reports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nopcommersApp" type="b2602c69:ProjectViewProjectNode" />
@@ -322,7 +308,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22619048" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22619048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -547,8 +533,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testCases/test_addCustomer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="867">
+          <caret line="51" column="51" lean-forward="true" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="51" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

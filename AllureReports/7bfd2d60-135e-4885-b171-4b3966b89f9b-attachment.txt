@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:17 ******Test_search_manufacturere_by_name_007 ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:25 ****** Login successfull ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:27 ****** search manufacturer by name started ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:34 ****** Search manufacturer by name Validation start ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:40 actual result is Khande works private limited
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:41 ****** Search manufacturer test passed ******
+[32mINFO    [0m Test_search_manufacturere_by_name_007:test_search_manufacturer_by_name.py:48 ****** Ending Test_search_manufacturere_by_name_007 ******

@@ -1,0 +1,15 @@
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:18 ************* Test_003_AddCustomer **************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:21 --- URL Entered
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:25 --- Username Entered :admin@yourstore.com
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:27 --- Password Entered :admin
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:29 --- clicked on login
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:30 *************** Login Successful ****************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:32 *************** Starting Add Customer Test ************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:35 --- clicked on Customers Menu
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:37 --- clicked on Customers Menu Item
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:39 --- clicked on Add New
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:41 *********** Providing customer info ************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:55 *********** Saving customer info *************
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:57 *********** Add customer validation Started **********
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:63 ********** Add customer test Passed **********
+[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:72 ********** Ending Test_003_AddCustomer *************

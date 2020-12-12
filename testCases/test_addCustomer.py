@@ -68,7 +68,7 @@ class Test_003_AddCustomer:
             self.driver.close()
             assert True == False
 
-        # self.driver.close()
+        self.driver.close()
         self.logger.info("********** Ending Test_003_AddCustomer *************")
 # this function created for generating random email
 

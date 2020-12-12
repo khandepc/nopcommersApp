@@ -1,0 +1,17 @@
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:19 ********** Test_006_AddManifacturer **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:22 --- URL Entered Successfully
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:25 --- user name Entered :admin@yourstore.com
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:27 --- password Entered :admin
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:29 --- clicked on login
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:30 ********** login successfull **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:32 ********** Stating Add Manufacturer Test **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:35 --- clicked on cateloge
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:37 --- clicked on manufacturer
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:39 --- clicked on Add new button
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:41 ********** Entering manufacturer name **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:43 --- Manufacturer name Entered :Khande works private limited
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:45 --- clicked on save button
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:46 ********** saving manufacturer **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:48 ********** Add manufacturer validation started **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:54 ********** Add manufacturer Test Passed **********
+[32mINFO    [0m Test_006_AddManifacturer:test_add_manufacturer.py:61 ********** Ending Test_006_AddManifacturer **********
