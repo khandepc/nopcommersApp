@@ -1316,3 +1316,37 @@
 2021-02-11 10:36:21,770 :INFO :Test_search_manufacturere_by_name_007 :******Test_search_manufacturere_by_name_007 ******
 2021-02-11 10:36:49,122 :INFO :Test_search_manufacturere_by_name_007 :****** Login successfull ******
 2021-02-11 10:36:49,123 :INFO :Test_search_manufacturere_by_name_007 :****** search manufacturer by name started ******
+2021-02-11 10:50:52,198 :INFO :Test_001_Login :********************* Verifying login test **********************
+2021-02-11 10:51:05,676 :INFO :Test_001_Login :********************* login test is passed **********************
+2021-02-11 10:51:12,388 :INFO :Test_003_AddCustomer :************* Test_003_AddCustomer **************
+2021-02-11 10:51:16,398 :INFO :Test_003_AddCustomer :--- URL Entered
+2021-02-11 10:51:16,977 :INFO :Test_003_AddCustomer :--- Username Entered :admin@yourstore.com
+2021-02-11 10:51:17,518 :INFO :Test_003_AddCustomer :--- Password Entered :admin
+2021-02-11 10:51:23,849 :INFO :Test_003_AddCustomer :--- clicked on login
+2021-02-11 10:51:23,849 :INFO :Test_003_AddCustomer :*************** Login Successful ****************
+2021-02-11 10:51:23,849 :INFO :Test_003_AddCustomer :*************** Starting Add Customer Test ************
+2021-02-11 10:51:24,678 :INFO :Test_003_AddCustomer :--- clicked on Customers Menu
+2021-02-11 10:51:27,524 :INFO :Test_003_AddCustomer :--- clicked on Customers Menu Item
+2021-02-11 10:51:29,963 :INFO :Test_003_AddCustomer :--- clicked on Add New
+2021-02-11 10:51:29,963 :INFO :Test_003_AddCustomer :*********** Providing customer info ************
+2021-02-11 10:51:47,045 :INFO :Test_003_AddCustomer :*********** Saving customer info *************
+2021-02-11 10:51:47,045 :INFO :Test_003_AddCustomer :*********** Add customer validation Started **********
+2021-02-11 10:51:47,309 :INFO :Test_003_AddCustomer :********** Add customer test Passed **********
+2021-02-11 10:51:47,435 :INFO :Test_003_AddCustomer :********** Ending Test_003_AddCustomer *************
+2021-02-11 10:51:53,798 :INFO :Test_006_AddManifacturer :********** Test_006_AddManifacturer **********
+2021-02-11 10:51:57,778 :INFO :Test_006_AddManifacturer :--- URL Entered Successfully
+2021-02-11 10:51:58,499 :INFO :Test_006_AddManifacturer :--- user name Entered :admin@yourstore.com
+2021-02-11 10:51:59,137 :INFO :Test_006_AddManifacturer :--- password Entered :admin
+2021-02-11 10:52:07,279 :INFO :Test_006_AddManifacturer :--- clicked on login
+2021-02-11 10:52:07,279 :INFO :Test_006_AddManifacturer :********** login successfull **********
+2021-02-11 10:52:07,280 :INFO :Test_006_AddManifacturer :********** Stating Add Manufacturer Test **********
+2021-02-11 10:52:07,592 :INFO :Test_006_AddManifacturer :--- clicked on cateloge
+2021-02-11 10:52:10,694 :INFO :Test_006_AddManifacturer :--- clicked on manufacturer
+2021-02-11 10:52:16,943 :INFO :Test_006_AddManifacturer :--- clicked on Add new button
+2021-02-11 10:52:16,943 :INFO :Test_006_AddManifacturer :********** Entering manufacturer name **********
+2021-02-11 10:52:17,561 :INFO :Test_006_AddManifacturer :--- Manufacturer name Entered :Khande works private limited
+2021-02-11 10:52:20,214 :INFO :Test_006_AddManifacturer :--- clicked on save button
+2021-02-11 10:52:20,214 :INFO :Test_006_AddManifacturer :********** saving manufacturer **********
+2021-02-11 10:52:20,214 :INFO :Test_006_AddManifacturer :********** Add manufacturer validation started **********
+2021-02-11 10:52:20,476 :INFO :Test_006_AddManifacturer :********** Add manufacturer Test Passed **********
+2021-02-11 10:52:22,038 :INFO :Test_006_AddManifacturer :********** Ending Test_006_AddManifacturer **********
