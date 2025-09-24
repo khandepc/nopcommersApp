@@ -1,6 +1,4 @@
 
-
-
 class LoginPage:
 
     textbox_username_xpath="//input[@id='Email']"
